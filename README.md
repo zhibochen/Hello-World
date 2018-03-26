@@ -1,2 +1,5 @@
 # Hello-World
-just a repository
+
+hi human,
+
+i'm a robot,nice to meet you!
